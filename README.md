@@ -1,11 +1,9 @@
 # Coursera - Capstone Project
 
-### The battle of Neighborhoods
+## The Battle of Neighborhoods
 
-Jkjdjglsfgsbb xd 
-zfs g
-f df
-vd
- 
- f 
- f 
+
+### Part A. 
+
+### 1. Introduction 
+
