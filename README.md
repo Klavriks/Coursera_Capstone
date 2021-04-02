@@ -3,7 +3,7 @@
 ## The Battle of Neighborhoods
 
 
-### Part A. 
+### Part A 
 
-### 1. Introduction 
+#### 1. Introduction 
 
