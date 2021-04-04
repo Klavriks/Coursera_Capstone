@@ -11,9 +11,19 @@
 
   My client is international travel company who seeks to investigate what type of restaurants are prevailing in one or the other neighborhood of New York. Coulinary tourism is a growing travel trend. Not just exploration of new cuisines and local food delicates what attracts tourists, but very often availability of local restaurant options of their preference play a pivotal role in their holiday eperience. Infromation on what type of restaurants are dominant in different places of New York, will help the travel agents to provide a weighted and well-informed opinion for their clients about their best place to stay. Also, type of local restaurants quite often provides a tip on wellbeing and security of the area, so travellers can estimate ethnic diversity of the place and what would be the local overnight stay costs, for example. This relation is especialy applicable to large megalopolises such as New York.
   
-   #### 2. Data used
+   #### 2. Data Section
    
-   ![image](https://user-images.githubusercontent.com/46403847/113462809-a009f600-941a-11eb-8f34-115d10314925.png)
+  This project depends on the following data:
+  
+  1. **New York neighborhoods**
+  
+  - **Data source:** https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
+  - **Description:** Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. This data will be used to locate neighborhoods with a help of Foursquare API.
+  
+  2. **Location and venu data**
+   
+   
+   
 
 
  
