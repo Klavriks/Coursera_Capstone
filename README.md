@@ -17,7 +17,7 @@
   
   **1. New York neighborhoods**
   
-  - *Data source:* [Wiki page](https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City)
+  - *Data source:* [Wikipedia page](https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City)
   - *Description:* Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. 
 
   **2. Location of neighborhoods**
