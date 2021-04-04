@@ -17,8 +17,8 @@
   
   1. **New York neighborhoods**
   
-  - **Data source:** https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
-  - **Description:** Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. This data will be used to locate neighborhoods with a help of Foursquare API.
+  - *Data source:* https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
+  - *Description:* Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. This data will be used to locate neighborhoods with a help of Foursquare API.
   
   2. **Location and venu data**
    
