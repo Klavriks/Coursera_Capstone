@@ -15,13 +15,21 @@
    
   This project depends on the following data:
   
-  1. **New York neighborhoods**
+  **1. New York neighborhoods**
   
   - *Data source:* https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
-  - *Description:* Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. This data will be used to locate neighborhoods with a help of Foursquare API.
+  - *Description:* Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. 
+
+  **2. Location of neighborhoods**
   
-  2. **Location and venu data**
-   
+  - *Data sorce:* GeoPy geocoding web services
+  - *Description:* Using GeoPy services long/lat data extracted for each neighborhood.
+  
+  **3. Restaurant data**
+  
+  - *Data source:* Foursquare API
+  - *Description:* Once neighborhood locations are defined, Foursquaere API is used to identify nearby restaurants and retireve all necessary infromation about them. 
+  
    
    
 
