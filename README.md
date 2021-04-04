@@ -17,7 +17,7 @@
   
   **1. New York neighborhoods**
   
-  - *Data source:* https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
+  - *Data source:* [Wiki page](https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City)
   - *Description:* Data is scraped from Wikipedia page which presents all community areas in New York and lists all neighborhoods they cover. 
 
   **2. Location of neighborhoods**
@@ -28,7 +28,7 @@
   **3. Restaurant data**
   
   - *Data source:* Foursquare API
-  - *Description:* Once neighborhood locations are defined, Foursquaere API is used to identify nearby restaurants and retireve all necessary infromation about them. 
+  - *Description:* Once neighborhood locations are defined, Foursquaere API is used to identify nearby restaurants and retireve required information about the venue. 
   
    
    
