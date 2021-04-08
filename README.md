@@ -54,7 +54,26 @@ My client is international travel company who seeks to investigate what type of 
   
   ![image](https://user-images.githubusercontent.com/46403847/114103301-d0d9a780-98c0-11eb-864b-375c96b64762.png)
 
-  There were few restaurants identified in top 10 nearby venues found in this neighborhood. "Categories" column contains precise information which we need for identifying type of restaurant. Foursquare API can be used now for all neighborhoods and there will be top 100 nearby venues searched (which is max limit defined by Foursquare API)
+  There were few restaurants identified in top 10 nearby venues found in this neighborhood. "Categories" column contains precise information which we need for identifying type of restaurant. Foursquare API can be used now for all neighborhoods and there will be top 100 nearby venues searched (this is max limit defined by Foursquare API for search request). Retrieved venues are filtered on "Venue Category" filed that contains a word "Restaurant". 
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114104397-b0125180-98c2-11eb-82bb-69c1493d8df8.png)
+  
+  Further, to support quality of further analysis, lines with not defined restaurant type are cleared away and only neighborhoods with at least 5 restaurant types are selected.  
+  #### Clustering
+  
+  To analyse dominant restaurants in each area, one hot encoding will be applied for getting dummies of the restaurant types. 
+
+  ![image](https://user-images.githubusercontent.com/46403847/114105513-ce794c80-98c4-11eb-877f-fa5d53faeb1c.png)
+
+  In that way, by grouping data and calculating mean for each restaurant type we obtain desired ranking.
+  
+  ![Uploading image.png…]()
+
+  ![image](https://user-images.githubusercontent.com/46403847/114105467-b4d80500-98c4-11eb-9587-fd153c83fa1e.png)
+
+  
+
+
   
  
   
