@@ -44,16 +44,17 @@ My client is international travel company who seeks to investigate what type of 
   
   ![image](https://user-images.githubusercontent.com/46403847/114102481-4e041d00-98bf-11eb-9800-e33edba7cc8f.png)
 
-  Using Folium we map our neighborhoods to ensure the locations are defined correctly. 
+  Using Folium library we map our neighborhoods to ensure the locations are defined correctly. 
   
   ![image](https://user-images.githubusercontent.com/46403847/114102770-da164480-98bf-11eb-82ca-00aa031638a9.png)
 
-
+  #### Retrieval of restaurant information
   
+  Using Foursquare API we first select random neighborhood and check if we can spot required restaurant information. Random neighborhood selected is "Melrose"
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114103301-d0d9a780-98c0-11eb-864b-375c96b64762.png)
 
-
-   
-
-
+  There were few restaurants identified in top 10 nearby venues found in this neighborhood. "Categories" column contains precise information which we need for identifying type of restaurant. Foursquare API can be used now for all neighborhoods and there will be top 100 nearby venues searched (which is max limit defined by Foursquare API)
+  
  
   
