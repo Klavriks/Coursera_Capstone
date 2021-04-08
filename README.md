@@ -30,7 +30,9 @@ My client is international travel company who seeks to investigate what type of 
   - *Data source:* Foursquare API
   - *Description:* Once neighborhood locations are defined, Foursquaere API is used to identify nearby restaurants and retrieve required information about the venue. 
   
-   
+    #### 3. Methodology
+
+
    
 
 
