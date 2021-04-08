@@ -67,7 +67,7 @@ My client is international travel company who seeks to investigate what type of 
 
   In that way, by grouping data and calculating mean for each restaurant type we obtain desired ranking.
   
-  ![Uploading image.png…]()
+  ![image](https://user-images.githubusercontent.com/46403847/114105729-362f9780-98c5-11eb-9a9b-9542d5be8a1c.png)
 
   ![image](https://user-images.githubusercontent.com/46403847/114105467-b4d80500-98c4-11eb-9587-fd153c83fa1e.png)
 
