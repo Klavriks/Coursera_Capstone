@@ -5,13 +5,13 @@
 
 ### Part A 
 
-  #### 1. Introduction 
+  ### 1. Introduction 
 
 New York City is the nation's most attractive destination for visitors. In 2018, New York City welcomed 65.1 million visitors, an all-time high. International visitors comprised 13.6 million of the total, but their economic importance to the City outweighs their numbers because they stay longer and spend more money than domestic visitors. New York City attracts almost one-third of all foreign visitors to the United States. 
 
 My client is international travel company who seeks to investigate what type of restaurants are prevailing in one or the other neighborhood of New York. Coulinary tourism is a growing travel trend. Not just exploration of new cuisines and local food delicates what attracts tourists, but very often variety of local restaurant options play a pivotal role in their holiday eperience. Also, type of local restaurants quite often provides a tip on wellbeing and security of the area, points to ethnic diversity of the place and even gives a prompt to local overnight stay costs. This is especialy applicable to large megalopolises such as New York. Retrieved infromation on what type of restaurants are dominant in one or the other area will help travel agents to provide a weighted and well-informed opinion for their clients about their best place to stay. 
   
-   #### 2. Data Section
+   ### 2. Data Section
    
   This project depends on the following data:
   
@@ -32,10 +32,23 @@ My client is international travel company who seeks to investigate what type of 
   
   ### Part B
   
-  #### 3. Methodology
+  ### 3. Methodology
   
   #### Data preparation
   
+  Initially neighborhood data is scraped from "New York Community Areas" table available in Wikipedia. 
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114102314-febdec80-98be-11eb-817d-3e8110eecd31.png)
+  
+  Since more than one neighborhood stated against most community areas, those were split and concatenated with community areas in order to create an approprite address line. Relevant address data is paramaunt for obtaining lat/long information from GeoPy locatior. Once geolocation data obtained, the data is cleansed over duplicates and erroneous locations indentified. 
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114102481-4e041d00-98bf-11eb-9800-e33edba7cc8f.png)
+
+  Using Folium we map our neighborhoods to ensure the locations are defined correctly. 
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114102770-da164480-98bf-11eb-82ca-00aa031638a9.png)
+
+
   
 
 
