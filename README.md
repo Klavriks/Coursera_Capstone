@@ -48,7 +48,7 @@ My client is international travel company who seeks to investigate what type of 
   
   ![image](https://user-images.githubusercontent.com/46403847/114102770-da164480-98bf-11eb-82ca-00aa031638a9.png)
 
-  #### Retrieval of restaurant information
+  #### Restaurant information (Foursquare API)
   
   Using Foursquare API we first select random neighborhood and check if we can spot required restaurant information. Random neighborhood selected is "Melrose"
   
@@ -59,7 +59,7 @@ My client is international travel company who seeks to investigate what type of 
   ![image](https://user-images.githubusercontent.com/46403847/114104397-b0125180-98c2-11eb-82bb-69c1493d8df8.png)
   
   Further, to support quality of further analysis, lines with not defined restaurant type are cleared away and only neighborhoods with at least 5 restaurant types are selected.  
-  #### Clustering
+  #### Machine learnings (K-means Clustering)
   
   To analyse dominant restaurants in each area, one hot encoding will be applied for getting dummies of the restaurant types. 
 
