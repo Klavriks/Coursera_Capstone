@@ -89,7 +89,44 @@ My client is international travel company who seeks to investigate what type of 
   ![image](https://user-images.githubusercontent.com/46403847/114232065-371f0280-9973-11eb-94e4-bf037765b259.png)
   
   We can clearly see Mexican being dominant type of restaurant. Latin American restaurants can be also regarder as dominant as they earned 2nd place in both charts.
+  Neighborhoods are identified in all areas of New York apart from Staten Island and avoiding congested NY city locations. 
 
+
+  **Cluster 1 - (purple pointers on the map)**  
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114232266-8402d900-9973-11eb-8fd9-3b6f085b69ad.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114232279-89f8ba00-9973-11eb-9285-6179cf153558.png)
+
+  Italian cuisine is most popular in cluster 1 with American restaurants earning confident 2nd place.
+  Neighborhoods are identified in all areas of New York without an exception with majority concentrated in Downtown and north-west part of Brooklyn. 
+  
+  
+  **Cluster 2 - (light blue pointers on the map)** 
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114232481-db08ae00-9973-11eb-9fc9-d7b3a2dd121a.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114232504-e2c85280-9973-11eb-9fee-5a38999927bd.png)
+
+  This cluster covers a small number of neighborhoods which are mainly popular with their fast food chain restaurants.
+  Location of neighborhoods: Staten Island & north part of Bronx.
+  
+  
+  **Cluster 3 - (light green pointers on the map)**   
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114232598-02f81180-9974-11eb-882f-e820f714ecaa.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114232624-08edf280-9974-11eb-8044-5675fd5ae020.png)
+
+  Though clear dominance belongs to Mexican as the most common restaurant (remember, Mexican selected as top type for cluster 0 also), it's important to notice that neighborhood is rich with its Far East restaurants (Japanese, Chinese, Thai, Korean). Especially popular are Japanese restaurants, cause Sushi places belong to Japanese cuisine
+  Location of neighborhoods: Manhattan, Brooklyn and Queens
+  
+  
+  **Cluster 4 - (orange pointers on the map)**   
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114232684-2a4ede80-9974-11eb-9738-bec0f5793aed.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114232693-3044bf80-9974-11eb-844a-634ae7360237.png)
+
+  In cluster 4 Chinese (and Cantonese, which is basically the same cuisine) is clearly top type of restaurant in the neighborhoods.
+  Neighborhoods are identified in all areas of New York apart from Staten Island. There are no locations identified in Manhattan apart from two neighborhoods in obvious Chinatown area.
+  
   
   ### 4. Results
 
