@@ -81,6 +81,15 @@ My client is international travel company who seeks to investigate what type of 
 
   ![image](https://user-images.githubusercontent.com/46403847/114165471-6e19f780-9924-11eb-9e38-71997b6f203d.png)
 
+  #### Exploratory Data Analysis
+  
+  **Cluster 0 - (red pointers on the map)**
+  
+  ![image](https://user-images.githubusercontent.com/46403847/114232031-2bcbd700-9973-11eb-8a0d-967e9b31dab5.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114232065-371f0280-9973-11eb-94e4-bf037765b259.png)
+  
+  We can clearly see Mexican being dominant type of restaurant. Latin American restaurants can be also regarder as dominant as they earned 2nd place in both charts.
+
   
   ### 4. Results
 
