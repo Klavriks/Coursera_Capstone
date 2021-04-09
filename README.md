@@ -130,11 +130,16 @@ My client is international travel company who seeks to investigate what type of 
   
   ### 4. Results
 
-  --It goes without saying that New York has no shortage of restaurants in its area. 
-  --111 neighborhoods have at least five type of restaurants in radius of 500m from its center point. 
-  --Majority of neighborhoods are dominated by Mexican, Far East, Italian and American restaurants. These 4 also dominate most parts of Manhattan, especially central and city locations. 
-  --Quite a few neighborhoods have clear dominance of Chinese and Cantonese restaurants. 
-  --Only a few neighborhoods located in Staten Island and north Bronx have fast food chains indicated as the most popular restaurants. 
+  - It goes without saying that New York has no shortage of restaurants in its area. 
+  
+  - 111 neighborhoods have at least five type of restaurants in radius of 500m from its center point. 
+  
+  - Majority of neighborhoods are dominated by Mexican, Far East, Italian and American restaurants. These 4 also dominate most parts of Manhattan, especially central and city locations. 
+  
+  - Quite a few neighborhoods have clear dominance of Chinese and Cantonese restaurants.
+   
+  - Only a few neighborhoods located in Staten Island and north Bronx have fast food chains indicated as the most popular restaurants. 
+  - 
 
   ### 5. Discussion
   
