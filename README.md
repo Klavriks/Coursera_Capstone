@@ -139,9 +139,19 @@ My client is international travel company who seeks to investigate what type of 
   - Quite a few neighborhoods have clear dominance of Chinese and Cantonese restaurants.
    
   - Only a few neighborhoods located in Staten Island and north Bronx have fast food chains indicated as the most popular restaurants. 
-  - 
+  
 
   ### 5. Discussion
+  
+  #### Observations
+  
+  Though it's widely known that New York is crammed with numerous fast food stores, only a few neighborhoods identified to have fast food restaurants being dominant in the area. That is likely to be explained by the fact that not all fast food places qualify for a "restaurant" title, and hence could be marked under different venue category in Foursquare API. 
+  
+  A small number of restaurant type instances selected for each neighborhood (5) together with a great variety of different types of restaurants in theory cause clustering process to be fairly inefficient. Though obtained clusters quite clearly defined dominant places in most neighborhoods that are close to be true. 
+  
+  It was a surprise not to see any neighborhood where Indian restaurants would dominate the area. It could be either because those are spread evenly across New York neighborhoods and are not concentrated in any specific area, or due to data incompleteness retrieved from Foursquare API. 
+  
+  #### Recommendations
   
   
   ### 6. Conclusion
