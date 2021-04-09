@@ -76,10 +76,11 @@ My client is international travel company who seeks to investigate what type of 
   
   ![image](https://user-images.githubusercontent.com/46403847/114165178-14b1c880-9924-11eb-8335-9333970d709b.png)
 
-  From squared errors plotted above it's barely identifiable that elbow of the curve points at 4 value of k parameter. We wil then use this value for clustering algorithm. 
+  From squared errors plotted above it's barely identifiable that elbow of the curve points at 5 value of k parameter. We will use this value in our clustering process. 
   The resulted clusters are mapped below. 
 
-  
+  ![image](https://user-images.githubusercontent.com/46403847/114165471-6e19f780-9924-11eb-9e38-71997b6f203d.png)
+
   
   ### 4. Results
 
