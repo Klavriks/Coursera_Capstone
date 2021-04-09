@@ -46,7 +46,8 @@ My client is international travel company who seeks to investigate what type of 
 
   Using Folium library we map our neighborhoods to ensure the locations are defined correctly. 
   
-  ![image](https://user-images.githubusercontent.com/46403847/114102770-da164480-98bf-11eb-82ca-00aa031638a9.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114159550-d0232e80-991d-11eb-9410-22a17a838439.png)
+  
 
   #### Restaurant information (Foursquare API)
   
