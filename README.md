@@ -162,7 +162,5 @@ My client is international travel company who seeks to investigate what type of 
  
   ### 6. Conclusion
 
-  To conclude, this project has served well for outlining restaurant type dominance in various neighborhoods of New York and will be a great help to travel agents for forming informed advise on restaurant locations to their clients. The analysis provides a good glimpse into what cuisines can be tried out in one or the other neighborhood of New York, however there are venues that can be improved in order to improve quality of outputs presented. As a final note, the analysis carried out in this project is dependent on the accuracy of Four Square data. A more comprehensive analysis would benefit from incorporating data from other external databases.
-  
+  To conclude, this project has served well for outlining restaurant type dominance in various neighborhoods of New York and will be a great help to travel agents for forming informed advise on restaurant locations to their clients. The analysis provides a good glimpse into what cuisines can be tried out in one or the other neighborhood of New York, however there are certain aspects that can be improved in order to improve quality of outputs presented. As a final note, the analysis carried out in this project is dependent on the accuracy of Four Square data. A more comprehensive analysis would benefit from incorporating data from other external databases.
  
-  
