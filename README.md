@@ -79,7 +79,14 @@ My client is international travel company who seeks to investigate what type of 
   The resulted clusters are mapped below. 
 
   
+  
+  ### 4. Results
 
+
+  ### 5. Discussion
+  
+  
+  ### 6. Conclusion
 
   
  
