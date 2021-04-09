@@ -74,7 +74,7 @@ My client is international travel company who seeks to investigate what type of 
   
   Now, when data is ready for clustering we will test the data using k-means estimator to find best value for k parameter.
   
-  ![image](https://user-images.githubusercontent.com/46403847/114106192-249abf80-98c6-11eb-84ab-30f32382bab9.png)
+  ![image](https://user-images.githubusercontent.com/46403847/114165178-14b1c880-9924-11eb-8335-9333970d709b.png)
 
   From squared errors plotted above it's barely identifiable that elbow of the curve points at 4 value of k parameter. We wil then use this value for clustering algorithm. 
   The resulted clusters are mapped below. 
