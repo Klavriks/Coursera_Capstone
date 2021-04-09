@@ -153,9 +153,16 @@ My client is international travel company who seeks to investigate what type of 
   
   #### Recommendations
   
+  This project can certainly benefit from split-rank logic which is not applied for cases when number of most common restaurant places is identified the same. For example, if a neighborhood area has 2 of each of 5 restaurant types, any restaurant can be selected as a dominant.
   
+  New York neighborhoods can be very different in size and venue search radius could have been modified for each area according to its size to cover more restaurants
+  
+  Quite a few neighborhoods were identified to have only a few number of restaurants and were removed from the analysis. Since data relies on limited 100 venues that can be extracted from Foursquare API in a single search request, more restaurant locations could have been captured if a workaround solution found to bypass this limit. 
+ 
+ 
   ### 6. Conclusion
 
+  To conclude, this project has served well for outlining restaurant type dominance in various neighborhoods of New York and will be a great help to travel agents for forming informed advise on restaurant locations to their clients. The analysis provides a good glimpse into what cuisines can be tried out in one or the other neighborhood of New York, however there are venues that can be improved in order to improve quality of outputs presented. As a final note, the analysis carried out in this project is dependent on the accuracy of Four Square data. A more comprehensive analysis would benefit from incorporating data from other external databases.
   
  
   
